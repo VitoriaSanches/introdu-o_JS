@@ -1,2 +1,2 @@
-# introdu-o_JS
+# intro_JS
 Segunda aula de JS
